@@ -1,7 +1,8 @@
+<h1 align="left">Hi 👋,I'm Ziad Gad.</h1>
 
 ###
 
-<h1 align="left">Hi 👋, I am Ziad Gad. Backend Developer 👨‍💻</h1>
+<p>A Passionate Mern Stack Developer From Egypt. I Graduated With A Bachelor Of Computer Science (2021-2025) With Excellent Graduation Project Grade. Seeking A Job In The Field Of "Technology" In A Reputable Organization Where I Can Gain Experience. Eager To Learn Every Day And Gain More Experience In Different Fields Related To Technology, Specializing In Mongodb, Express.js, React.js, And Node.js To Build Full-stack Web Applications.</p>
 
 ###
 
@@ -29,6 +30,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
@@ -41,13 +44,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pug" height="40" alt="pug logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
@@ -59,9 +60,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+
 </div>
 
 ###
