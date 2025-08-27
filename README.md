@@ -2,7 +2,7 @@
 
 ###
 
-<p>A Passionate Mern Stack Developer From Egypt. I Graduated With A Bachelor Of Computer Science (2021-2025) With Excellent Graduation Project Grade. Seeking A Job In The Field Of "Technology" In A Reputable Organization Where I Can Gain Experience. Eager To Learn Every Day And Gain More Experience In Different Fields Related To Technology, Specializing In Mongodb, Express.js, React.js, And Node.js To Build Full-stack Web Applications.</p>
+<p>A Passionate MERN Stack Developer From Egypt. I Graduated With A Bachelor Of Computer Science (2021-2025) With Excellent Graduation Project Grade. Seeking A Job In The Field Of "Technology" In A Reputable Organization Where I Can Gain Experience. Eager To Learn Every Day And Gain More Experience In Different Fields Related To Technology, Specializing In Mongodb, Express.js, React.js, And Node.js To Build Full-stack Web Applications.</p>
 
 ###
 
