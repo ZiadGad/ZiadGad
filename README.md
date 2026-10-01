@@ -23,7 +23,8 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" src="https://icon.icepanel.io/Technology/svg/AngularJS.svg" alt="angular logo"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
+  <img width="12" src="https://skillicons.dev/icons?i=agnular" alt="angular logo"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
